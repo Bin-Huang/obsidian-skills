@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "obsidian",
-      "source": ".",
+      "source": "./",
       "description": "Create and edit Obsidian vault files including Markdown, Bases, and Canvas.",
       "version": "1.0.0"
     }
